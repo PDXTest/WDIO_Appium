@@ -58,7 +58,7 @@ exports.config = {
         "appium:automationName": "UiAutomator2",
        "appium:app": "D:\\Dummy\\Android-NativeDemoApp-0.4.0.apk",
        // "appium:app": "D:\\Dummy\\ApiDemos-debug.apk",
-        
+        //Test
         "appium:appPackage": "com.wdiodemoapp",
         "appium:appActivity": "com.wdiodemoapp.SplashActivity",
 
